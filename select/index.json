@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "たぶん恋するコイントス",
+  "base_artist": "コレって恋ですか？",
+  "createdAt": "2026-02-13T23:35:08.574255Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "たぶん恋するコイントス",
+      "artist": "コレって恋ですか?",
+      "has_synced": false,
+      "path": "select/pl_01_たぶん恋するコイントス_コレって恋ですか.txt"
+    }
+  ]
+}
